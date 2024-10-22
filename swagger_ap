@@ -1,0 +1,38 @@
+ Swagger es una herramienta increíblemente útil para la documentación y diseño de APIs.
+ Especialmente cuando trabajas en proyectos que requieren una buena comunicación entre equipos y claridad en el manejo de endpoints.
+
+Swagger te permite crear una documentación interactiva donde los usuarios o desarrolladores pueden ver y probar los diferentes endpoints de una API
+sin necesidad de hacer pruebas directamente con código.
+Para dominar Swagger, te recomendaría enfocarte en estos aspectos clave:
+
+OpenAPI Specification: 
+Swagger está basado en la especificación OpenAPI.
+Aprender cómo funciona el formato OpenAPI
+(normalmente escrito en JSON o YAML)
+te dará un entendimiento profundo de cómo se estructuran y definen las APIs.
+
+Anotaciones en .NET:
+Si trabajas en .NET, puedes usar las anotaciones de Swagger en tus controladores para generar la documentación automáticamente.
+
+Herramientas como Swashbuckle integran Swagger directamente en ASP.NET Core.
+Esto te permitirá agregar detalles como descripciones de rutas, parámetros y respuestas.
+
+Documentación de Endpoints:
+Familiarízate con cómo describir las rutas HTTP
+(GET, POST, PUT, DELETE, etc) 
+parámetros de consulta o de cuerpo, 
+respuestas esperadas y códigos de error.
+
+Interfaz Gráfica:
+Swagger UI es la interfaz gráfica que permite ver la documentación y probar las APIs directamente.
+Aprender cómo personalizar esta UI puede mejorar la experiencia de tus clientes o equipo técnico.
+
+Seguridad y Autorización: 
+Si tu API tiene autenticación (JWT, OAuth2, etc.) aprende cómo integrar estas medidas en Swagger para que los usuarios puedan probar la API mientras manejan los tokens de autenticación.
+
+Si quieres algún recurso específico o que te explique más sobre la integración con .NET
+
+
+
+
+
