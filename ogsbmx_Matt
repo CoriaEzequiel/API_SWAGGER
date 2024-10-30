@@ -3,16 +3,30 @@
 okey me ayudas a crear mi proyecto desde cero con lo que te iré sugiriendo y finalizamos haciendo
  las pruebas en swagger?
  propongo que iniciemos con la creación de la base de datos de mi sitio que será dedicado a matthoffman
- y contendrá una ecomerce que ofrecerá piezas de bmx (asientos, cuadros, pedales, manubrios y masas) ,  digamos que tendrá 3 roles: 1 de super admin, 1 de admin y 1 para compradores. Y realizaremos el método de pago por el momento de manera que una vez realizado la compra nos ponemos en contacto con el cliente... que luego modificaremos para incluir tarjetas de crédito y otros métodos de pago.. lo veremos luego) 
-necesitariamos para la vista de inicio que será una imagen de matt, tendrá un botón para reproducir su .mp3 que yo mismo proporcionaré.
-y luego ademas de este home existirá una parte que dirá "play" el cual es para dirigirse a jugarlo (que tambien tengo para proporcionarlo al sitio)
-y necesitariamos las entidades de la parte de ecommerce principalmente debemos crear estas entidades, luego iremos agregando.
+ y contendrá una ecomerce que ofrecerá piezas de bmx (asientos, cuadros, pedales, manubrios y masas) ,  
+digamos que tendrá 3 roles:
+1 de super admin, 1 de admin y 1 para compradores.
+
+Y realizaremos el método de pago por el momento de manera que una vez realizado la compra nos ponemos en contacto con el cliente...
+tu sabes que luego modificaremos para incluir tarjetas de crédito y otros métodos de pago..
+lo veremos luego) 
+
+necesitariamos para la vista de inicio que será una imagen de matt,
+tendrá un botón para reproducir su .mp3 que yo mismo proporcionaré.
+y luego ademas de este home existirá una parte que dirá "play" el cual es para dirigirse a jugarlo 
+(que tambien tengo para proporcionarlo al sitio)
+
+y necesitariamos las entidades de la parte de ecommerce principalmente debemos crear estas entidades,
+luego iremos agregando.
 
 trabajaré con todo lo que ofrece .NET. 
+
 sugiero que me ayudes a realizar la base de datos correspondiente para luego realizar "Scafolding"
 que tambien es algo que estuve aprendiendo y me gustaria llevarlo a cabo en algo profesional como este proyecto.
 Luego a partir de ahí yo continuaría con los servicios, interfaces, implementaciones y los controladores respectivos, etc.
 (obviamente sin dudarlo te tendré en consideración si quieres aportar sugerencia: iremos paso a paso :) "
+
+
 
 
 
